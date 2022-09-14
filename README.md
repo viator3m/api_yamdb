@@ -141,3 +141,8 @@ Authorization: Bearer "eyJ0eXAiOi..."
 ```
 
 С полной документацией можно ознакомиться по адресу [http://localhost:8000/redoc/](http://localhost:8000/redoc/)
+
+Авторы:
+- [Vladimir Kamyshanov](https://github.com/viator3m)
+- [Pavel Gavrilenko](https://github.com/pavelGavrilenko)
+- [Artem Pavlishev](https://github.com/artemkms)
